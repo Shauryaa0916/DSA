@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shauryaa0916/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shauryaa0916/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shauryaa0916/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Shauryaa0916/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shauryaa0916/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Shauryaa0916/DSA/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
