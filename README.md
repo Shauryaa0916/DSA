@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Shauryaa0916/DSA/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Shauryaa0916/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shauryaa0916/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Shauryaa0916/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shauryaa0916/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shauryaa0916/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
