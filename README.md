@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shauryaa0916/DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shauryaa0916/DSA/tree/master/0115-distinct-subsequences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shauryaa0916/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shauryaa0916/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -165,10 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shauryaa0916/DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shauryaa0916/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shauryaa0916/DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shauryaa0916/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shauryaa0916/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
